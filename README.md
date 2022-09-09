@@ -7,6 +7,7 @@ You work at Rossmann Pharmaceuticals as a Machine Learning Engineer. The finance
 The data team identified factors such as promotions, competition, school and state holidays, seasonality, and locality as necessary for predicting the sales across the various stores.
 
 #Instructions
+
 ##The task is divided into the following objectives
 
 *Exploration of customer purchasing behavior
