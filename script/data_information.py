@@ -205,7 +205,7 @@ class DataInfo:
         """
             returns the median of each column of the dataframe
             Parameters
-            ----------
+        
             None
             Returns
             -------
